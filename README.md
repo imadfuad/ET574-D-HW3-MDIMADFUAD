@@ -1,1 +1,2 @@
 # ET574-D-HW3-MDIMADFUAD
+The detailed prompt produced a more accurate and professional solution. Copilot followed the specific naming instructions, included type hints, and improved code clarity. This shows that more detailed prompts generate higher quality results.
