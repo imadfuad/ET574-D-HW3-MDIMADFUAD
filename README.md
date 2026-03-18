@@ -6,6 +6,7 @@ The simple prompt produced longer and more complex code.
 The program used loops, list comprehensions, max(), min(), and other functions that may not be beginner friendly. 
 The output depended on user input and included extra analysis not clearly requested. 
 When tested multiple times, the structure of the solution could vary.
+
 Task F:
 
 The improved prompt gave a much clearer and simpler result compared to the simple prompt. 
